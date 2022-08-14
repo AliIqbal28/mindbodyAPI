@@ -1,0 +1,33 @@
+Request in python:
+
+
+import http.client
+import json
+
+conn = http.client.HTTPSConnection("api.mindbodyonline.com")
+
+payload = {
+        "Test": "false",
+        "LocationId": 1,
+        "ClientId": 100009536
+        "PaymentInfo": {
+            "Type": "Custom",
+            "Metadata": {"Amount": "393",
+                "Id": 17}
+  }
+}
+headers = {
+     'Content-Type': 'application/json',
+     'API-Key': API_KEY,
+     'SiteId': SITE_ID,
+     'Authorization': AUTHORIZATION
+    }
+conn.request("POST", "/public/v6/sale/purchaseaccountcredit", str(payload).encode('utf-8'), headers)
+res = conn.getresponse()
+data = res.read()
+print(data.decode("utf-8"))
+
+
+Response:
+
+{'AmountPaid': 393.0, 'ClientId': '100009536', 'SaleId': 0, 'EmailReceipt': False, 'PaymentProcessingFailures': None}

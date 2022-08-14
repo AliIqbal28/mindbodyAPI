@@ -1,0 +1,23 @@
+Follow the steps to run the script:
+
+
+Steps:
+1) open project in pycharm
+2) set venv/python-interpreter. This option is autmatically shown normally. (python version should be greater than 3.6)
+3) Install requirements.txt
+4) run command: python manage.py runserver
+
+
+Notes:
+
+- In mindbodyApi.py, change the constants at the top of the file according to your credentials
+- Authorization(USER TOKEN) is valid for only 24hrs. after that you have to regenrate that using the credentials. i believe you would have to ask mindbody support on how to change its validity from "24 hours" to "forever".
+- Webhook server address is: localhost/webhooks/.
+- In mindbodyApi.py, the 'TEST' constant is current set to 'TRUE'. you can change it to 'FALSE' to run it on the live system
+- In mindbodyApi.py, in checkout Cart function, there's a value 'inStore', in the payload, which is currently set to 'TRUE'. change it according to your need. following is its function:
+
+InStore: When true, indicates that the cart is to be completed by a staff member and is to take place at one of the business’ physical locations. When false, indicates that the cart is to be completed by a client from the business’ online store.
+Default: false
+
+- open errorMail.py, make sure to test the credentials according to your account. i'll advice you to make a new gmail account for this purpose.
+- make sure to do this on that particular Gmail account: Go to the account settings and allow less secure apps to access the account. or go to this link to do that: https://myaccount.google.com/lesssecureapps  

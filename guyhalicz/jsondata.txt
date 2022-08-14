@@ -1,0 +1,399 @@
+{
+    "doctype": "invrec",
+    "docnum": "29595",
+    "timeissued": "2021-11-13 14:55:56",
+    "clientname": "דניאלה גולשה",
+    "clientaddress": "IL",
+    "safety_issue_field": "c5238p3u618fb48cb86-kdrmggo4bn",
+    "inv_rec_number": "29595",
+    "dateissued": "2021-11-13",
+    "comment": "",
+    "totalsum": "42.735",
+    "totalvat": "7.26495",
+    "vat_percent": "17",
+    "totalwithvat": "49.99995",
+    "ammountb4nicui": "50",
+    "nicui": "0",
+    "totalwithnicui": "50",
+    "roundup": "0",
+    "afterdiscount": "42.735",
+    "income_type": "0",
+    "tax_exempt": "0",
+    "based_on_order": "",
+    "salesman_id": "0",
+    "invoice_po_number": "",
+    "orig_printed": "0",
+    "imported": "0",
+    "lawyer_fees_ov": "0.00",
+    "lawyer_fees_nov": "0.00",
+    "lawyer_expenses_ov": "0.00",
+    "lawyer_expenses_nov": "0.00",
+    "lawyer_deposits_ov": "0.00",
+    "lawyer_deposits_nov": "0.00",
+    "has_cash": "0",
+    "has_cheques": "0",
+    "has_cc": "1",
+    "has_bt": "0",
+    "has_hk": "0",
+    "has_pp": "0",
+    "has_barter": "0",
+    "maampercent": "17",
+    "user_id": "1",
+    "currency": "5",
+    "rate": "1",
+    "hwc": "תודה שבחרת לתרגל איתנו",
+    "discount": "0",
+    "docnum_base": null,
+    "doctype_base": null,
+    "cash.sum": null,
+    "banktransfer.depositedTO": null,
+    "banktransfer.totalPayment": null,
+    "banktransfer.peraonDate": null,
+    "banktransfer.bank": null,
+    "banktransfer.snif": null,
+    "banktransfer.account": null,
+    "issuer": "יוגה לבונטין",
+    "items": [
+        {
+            "item_id": "42448",
+            "doctype": "invrec",
+            "docnum": "29595",
+            "inventory_item_id": "0",
+            "inventory_item_makat": "",
+            "serial": "",
+            "description": "שיעור ניסיון",
+            "long_description": "",
+            "unitprice": "42.735",
+            "quantity": "1",
+            "currency": "5",
+            "rate": 1,
+            "vat_exempt": "0",
+            "income_type_id": "0",
+            "is_refunded": "0",
+            "sku": ""
+        }
+    ],
+    "paypal": null,
+    "cc_payments": [
+        {
+            "id": "31224",
+            "doctype": "invrec",
+            "docnumber": "29595",
+            "cc_cardtype": "MASTERCARD",
+            "cc_paymenttype": "1",
+            "cctotal": "50",
+            "ccfirstpayment": "50",
+            "cc_numofpayments": "1",
+            "cc_peraondate": "2021-11-13",
+            "cc_shovar": "49001002",
+            "cc_cardnumber": "9640",
+            "cc_holdername": "דניאלה גולשה",
+            "cc_month": "10",
+            "cc_year": "2025",
+            "refunded": "0",
+            "deal_id": "",
+            "is_chargeback": "0",
+            "sum": "50",
+            "payment_date": "2021-11-13"
+        }
+    ],
+    "custom": {
+        "cc_page_id": "3"
+    },
+    "client_id": "7976",
+    "vat_id": "",
+    "client": {
+        "custom_client_id": "",
+        "email": "daniellagolsha23@gmail.com",
+        "phone": "0545682444",
+        "mobile": "0545682444",
+        "date_created": "2021-11-13",
+        "accounting_foreign_account": "207104",
+        "bank_number": "",
+        "bank_branch_number": "",
+        "bank_account_number": "",
+        "client_vat_id": ""
+    },
+    "doc_link": "https://app.icount.co.il/hash/p_print.php?code=WEovV1JhSVRjTE03a1FhOVBzSDhVc01ObkIvVi9ONnFNM3JvandHMUlMND0%3D",
+    "pdf_link": "https://s3.amazonaws.com/icount-pdfs/5238_fa42900ca86005e9127198cd5e8a4eb4.pdf"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "doctype": "invrec",
+    "docnum": "29571",
+    "timeissued": "2021-11-10 01:10:50",
+    "clientname": "תמר אלקלס",
+    "clientaddress": "",
+    "safety_issue_field": "",
+    "inv_rec_number": "29571",
+    "dateissued": "2021-11-10",
+    "comment": "תודה שבחרת לתרגל איתנו",
+    "totalsum": "335.90",
+    "totalvat": "57.1",
+    "vat_percent": "17",
+    "totalwithvat": "393.00",
+    "ammountb4nicui": "393.00",
+    "nicui": "0",
+    "totalwithnicui": "393.00",
+    "roundup": "",
+    "afterdiscount": "335.9",
+    "income_type": "0",
+    "tax_exempt": "0",
+    "based_on_order": "",
+    "salesman_id": "0",
+    "invoice_po_number": "",
+    "orig_printed": "0",
+    "imported": "0",
+    "lawyer_fees_ov": "0.00",
+    "lawyer_fees_nov": "0.00",
+    "lawyer_expenses_ov": "0.00",
+    "lawyer_expenses_nov": "0.00",
+    "lawyer_deposits_ov": "0.00",
+    "lawyer_deposits_nov": "0.00",
+    "has_cash": "0",
+    "has_cheques": "0",
+    "has_cc": "1",
+    "has_bt": "0",
+    "has_hk": "0",
+    "has_pp": "0",
+    "has_barter": "0",
+    "maampercent": "17",
+    "user_id": "1",
+    "currency": "5",
+    "rate": "1",
+    "hwc": "הופק על ידי מנוע הוראות קבע של iCount",
+    "discount": "0",
+    "docnum_base": null,
+    "doctype_base": null,
+    "cash.sum": null,
+    "banktransfer.depositedTO": null,
+    "banktransfer.totalPayment": null,
+    "banktransfer.peraonDate": null,
+    "banktransfer.bank": null,
+    "banktransfer.snif": null,
+    "banktransfer.account": null,
+    "issuer": "יוגה לבונטין",
+    "items": [
+        {
+            "item_id": "42336",
+            "doctype": "invrec",
+            "docnum": "29571",
+            "inventory_item_id": "0",
+            "inventory_item_makat": "",
+            "serial": "",
+            "description": "חופשי מתחדש",
+            "long_description": "",
+            "unitprice": "335.89743589744",
+            "quantity": "1",
+            "currency": "5",
+            "rate": 1,
+            "vat_exempt": "0",
+            "income_type_id": "0",
+            "is_refunded": "0",
+            "sku": ""
+        }
+    ],
+    "paypal": null,
+    "cc_payments": [
+        {
+            "id": "31152",
+            "doctype": "invrec",
+            "docnumber": "29571",
+            "cc_cardtype": "MASTERCARD",
+            "cc_paymenttype": "1",
+            "cctotal": "393.00",
+            "ccfirstpayment": "393.00",
+            "cc_numofpayments": "1",
+            "cc_peraondate": "2021-11-10",
+            "cc_shovar": "42001001",
+            "cc_cardnumber": "0471",
+            "cc_holdername": "תמר אלקלס",
+            "cc_month": "12",
+            "cc_year": "2999",
+            "refunded": "0",
+            "deal_id": "",
+            "is_chargeback": "0",
+            "sum": "393.00",
+            "payment_date": "2021-11-10"
+        }
+    ],
+    "custom": [],
+    "client_id": "5058",
+    "vat_id": "",
+    "client": {
+        "custom_client_id": "",
+        "email": "tammyelkeles@gmail.com",
+        "phone": "0544430609",
+        "mobile": "0544430609",
+        "date_created": "2018-11-12",
+        "accounting_foreign_account": "205056",
+        "bank_number": "",
+        "bank_branch_number": "",
+        "bank_account_number": "",
+        "client_vat_id": ""
+    },
+    "doc_link": "https://app.icount.co.il/hash/p_print.php?code=WEovV1JhSVRjTE03a1FhOVBzSDhVaFZxdXRYSksxZE56ekJmZmtqb0E3Yz0%3D",
+    "pdf_link": "https://s3.amazonaws.com/icount-pdfs/5238_b75a798c3fb10b426fabad0e423b4e75.pdf"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "doctype": "invrec",
+    "docnum": "29593",
+    "timeissued": "2021-11-12 01:10:48",
+    "clientname": "סיון גוזני",
+    "clientaddress": "",
+    "safety_issue_field": "",
+    "inv_rec_number": "29593",
+    "dateissued": "2021-11-12",
+    "comment": "תודה שבחרת לתרגל איתנו",
+    "totalsum": "223.93",
+    "totalvat": "38.07",
+    "vat_percent": "17",
+    "totalwithvat": "262.00",
+    "ammountb4nicui": "262.00",
+    "nicui": "0",
+    "totalwithnicui": "262.00",
+    "roundup": "",
+    "afterdiscount": "223.93",
+    "income_type": "0",
+    "tax_exempt": "0",
+    "based_on_order": "",
+    "salesman_id": "0",
+    "invoice_po_number": "",
+    "orig_printed": "0",
+    "imported": "0",
+    "lawyer_fees_ov": "0.00",
+    "lawyer_fees_nov": "0.00",
+    "lawyer_expenses_ov": "0.00",
+    "lawyer_expenses_nov": "0.00",
+    "lawyer_deposits_ov": "0.00",
+    "lawyer_deposits_nov": "0.00",
+    "has_cash": "0",
+    "has_cheques": "0",
+    "has_cc": "1",
+    "has_bt": "0",
+    "has_hk": "0",
+    "has_pp": "0",
+    "has_barter": "0",
+    "maampercent": "17",
+    "user_id": "1",
+    "currency": "5",
+    "rate": "1",
+    "hwc": "הופק על ידי מנוע הוראות קבע של iCount",
+    "discount": "0",
+    "docnum_base": null,
+    "doctype_base": null,
+    "cash.sum": null,
+    "banktransfer.depositedTO": null,
+    "banktransfer.totalPayment": null,
+    "banktransfer.peraonDate": null,
+    "banktransfer.bank": null,
+    "banktransfer.snif": null,
+    "banktransfer.account": null,
+    "issuer": "יוגה לבונטין",
+    "items": [
+        {
+            "item_id": "42438",
+            "doctype": "invrec",
+            "docnum": "29593",
+            "inventory_item_id": "0",
+            "inventory_item_makat": "",
+            "serial": "",
+            "description": "תשלום יחסי חופשי מתחדש",
+            "long_description": "",
+            "unitprice": "223.93",
+            "quantity": "1",
+            "currency": "5",
+            "rate": 1,
+            "vat_exempt": "0",
+            "income_type_id": "0",
+            "is_refunded": "0",
+            "sku": ""
+        }
+    ],
+    "paypal": null,
+    "cc_payments": [
+        {
+            "id": "31218",
+            "doctype": "invrec",
+            "docnumber": "29593",
+            "cc_cardtype": "VISA",
+            "cc_paymenttype": "1",
+            "cctotal": "262.00",
+            "ccfirstpayment": "262.00",
+            "cc_numofpayments": "1",
+            "cc_peraondate": "2021-11-12",
+            "cc_shovar": "46001001",
+            "cc_cardnumber": "0293",
+            "cc_holdername": "Sivan Gozani",
+            "cc_month": "12",
+            "cc_year": "2999",
+            "refunded": "0",
+            "deal_id": "",
+            "is_chargeback": "0",
+            "sum": "262.00",
+            "payment_date": "2021-11-12"
+        }
+    ],
+    "custom": [],
+    "client_id": "2082",
+    "vat_id": "",
+    "client": {
+        "custom_client_id": "0",
+        "email": "sivan.gozani@gmail.com",
+        "phone": "",
+        "mobile": "",
+        "date_created": "2014-12-25",
+        "accounting_foreign_account": "202083",
+        "bank_number": "",
+        "bank_branch_number": "",
+        "bank_account_number": "",
+        "client_vat_id": ""
+    },
+    "doc_link": "https://app.icount.co.il/hash/p_print.php?code=WEovV1JhSVRjTE03a1FhOVBzSDhVc01ObkIvVi9ONnFkSWtvcU1ZdVFZdz0%3D",
+    "pdf_link": "https://s3.amazonaws.com/icount-pdfs/5238_3966e5e31200dfe30938f9885bf049cd.pdf"
+}
